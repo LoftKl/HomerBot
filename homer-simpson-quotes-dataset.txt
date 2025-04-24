@@ -1,0 +1,221 @@
+id,quote,season,episode
+1,"Mmm... donuts.",1,1
+2,"D'oh!",1,1
+3,"Why you little!",1,2
+4,"Stupid Flanders.",1,2
+5,"Mmm... forbidden donut.",1,3
+6,"I'm normally not a praying man, but if you're up there, please save me, Superman!",1,3
+7,"When I held that gun in my hand, I felt a surge of power... like God must feel when he's holding a gun.",1,4
+8,"To alcohol! The cause of, and solution to, all of life's problems.",1,4
+9,"Just because I don't care doesn't mean I don't understand.",1,5
+10,"Kids, you tried your best and you failed miserably. The lesson is, never try.",1,5
+11,"I'm in no condition to drive. Wait, I shouldn't listen to myself, I'm drunk!",1,6
+12,"If something's hard to do, then it's not worth doing.",1,6
+13,"I want to share something with you: The three little sentences that will get you through life. Number 1: Cover for me. Number 2: Oh, good idea, Boss! Number 3: It was like that when I got here.",1,7
+14,"Facts are meaningless. You could use facts to prove anything that's even remotely true.",1,7
+15,"What's the point of going out? We're just going to wind up back here anyway.",1,8
+16,"That's it! You people have stood in my way long enough. I'm going to clown college!",1,8
+17,"You'll have to speak up, I'm wearing a towel.",1,9
+18,"Aw, twenty dollars? I wanted a peanut!",1,9
+19,"Son, when you participate in sporting events, it's not whether you win or lose, it's how drunk you get.",1,10
+20,"I've learned that life is one crushing defeat after another until you just wish Flanders was dead.",1,10
+21,"Life is just one disappointment after another until you just die.",2,1
+22,"Trying is the first step towards failure.",2,1
+23,"Donuts. Is there anything they can't do?",2,2
+24,"When will I learn? The answers to life's problems aren't at the bottom of a bottle, they're on TV!",2,2
+25,"I'm going to the back seat of my car with the woman I love, and I won't be back for ten minutes!",2,3
+26,"Television! Teacher, mother, secret lover.",2,3
+27,"If he's so smart, how come he's dead?",2,4
+28,"Operator! Give me the number for 911!",2,4
+29,"All right, brain, I don't like you and you don't like me, so let's just do this and I'll get back to killing you with beer.",2,5
+30,"I'm a technical writer. I make boring instruction manuals sound interesting.",2,5
+31,"It takes two to lie: one to lie and one to listen.",2,6
+32,"Ah, beer, my one weakness. My Achilles heel, if you will.",2,6
+33,"Just because I don't care doesn't mean I'm not listening.",2,7
+34,"I'm not normally a religious man, but if you're up there, save me, Superman!",2,7
+35,"Marge, I can't wear a pink shirt to work. Everybody wears white shirts. I'm not popular enough to be different.",2,8
+36,"I'm a rage-aholic! I just can't live without rage-ahol!",2,8
+37,"Dear Lord, the gods have been good to me. As an offering, I present these milk and cookies. If you wish me to eat them instead, give me no sign whatsoever... Thy will be done.",2,9
+38,"Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.",2,9
+39,"Oh, so they have the internet on computers now!",2,10
+40,"Please don't eat me. I have a wife and kids. Eat them!",2,10
+41,"Dad, what's a Muppet? Well, it's not quite a mop and it's not quite a puppet... but man! So to answer your question: I don't know.",3,1
+42,"Marge, you know it's rude to talk when my mouth is full.",3,1
+43,"My beer! You never had a chance to become my urine!",3,2
+44,"Oh, people can come up with statistics to prove anything. Fourteen percent of people know that.",3,2
+45,"Marge, I agree with you – in theory. In theory, communism works. In theory.",3,3
+46,"I saw this movie about a bus that had to SPEED around a city, keeping its SPEED over fifty, and if its SPEED dropped, it would explode! I think it was called 'The Bus That Couldn't Slow Down'.",3,3
+47,"Lisa, if you don't like your job, you don't strike. You just go in every day and do it really half-assed. That's the American way.",3,4
+48,"Marriage is like a coffin and each kid is another nail.",3,4
+49,"Homer no function beer well without.",3,5
+50,"I'm still mad at you for running over my sunglasses.",3,5
+51,"Son, a woman is like a beer. They look good, they smell good, and you'd step over your own mother just to get one!",3,6
+52,"Son, when you participate in sporting events, it's not whether you win or lose, it's how drunk you get.",3,6
+53,"Don't let Krusty's death get you down, boy. People die all the time, just like that. Why, you could wake up dead tomorrow! Well, good night.",3,7
+54,"Kids, you tried your best and you failed miserably. The lesson is: never try.",3,7
+55,"Weaseling out of things is important to learn. It's what separates us from the animals... except the weasel.",3,8
+56,"How is education supposed to make me feel smarter? Besides, every time I learn something new, it pushes some old stuff out of my brain.",3,8
+57,"I'm in shape! Round is a shape!",3,9
+58,"I'm like that guy who single-handedly built the rocket and went to the moon. What was his name? Apollo Creed?",3,9
+59,"Books are useless! I only ever read one book, 'To Kill A Mockingbird,' and it gave me absolutely no insight on how to kill mockingbirds! Sure it taught me not to judge a man by the color of his skin... but what good does that do me?",3,10
+60,"Marge, it takes two to lie. One to lie and one to listen.",3,10
+61,"Ah, the Denver Broncos!",4,1
+62,"Your mother has this crazy idea that gambling is wrong, even though they say it's okay in the Bible.",4,1
+63,"You know those balls that they put on car antennas so you can find them in the parking lot? Those should be on every car!",4,2
+64,"Old people don't need companionship. They need to be isolated and studied so it can be determined what nutrients they have that might be extracted for our personal use.",4,2
+65,"If something goes wrong at the plant, blame the guy who can't speak English.",4,3
+66,"Marge, you being a cop makes you the man! Which makes me the woman — and I have no interest in that, besides occasionally wearing the underwear, which as we discussed, is strictly a comfort thing.",4,3
+67,"I'm having the best day of my life, and I owe it all to not going to Church!",4,4
+68,"If adults don't like their jobs, they don't go on strike. They just go in every day and do it really half-assed.",4,4
+69,"Lord help me, I'm just not that bright.",4,5
+70,"I can't believe it! Reading and writing actually paid off!",4,5
+71,"I want to share something with you: The three little sentences that will get you through life. Number 1: Cover for me. Number 2: Oh, good idea, Boss! Number 3: It was like that when I got here.",4,6
+72,"Remember as far as anyone knows, we're a nice normal family.",4,6
+73,"When I look at people I don't see colors; I just see crackpot religions.",4,7
+74,"Just because I don't care doesn't mean I don't understand.",4,7
+75,"I'm a white male, age 18 to 49. Everyone listens to me, no matter how dumb my suggestions are.",4,8
+76,"It's not easy to juggle a pregnant wife and a troubled child, but somehow I managed to fit in eight hours of TV a day.",4,8
+77,"Lisa, if the Bible has taught us nothing else, and it hasn't, it's that girls should stick to girls' sports, such as hot oil wrestling, foxy boxing, and such and such.",4,9
+78,"It's like my dad always said: Eventually, everybody gets shot.",4,9
+79,"If they think I'm going to stop at that stop sign, they're sadly mistaken!",4,10
+80,"I'm normally not a praying man, but if you're up there, please save me, Superman!",4,10
+81,"Bart, with $10,000, we'd be millionaires! We could buy all kinds of useful things... like love!",5,1
+82,"Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.",5,1
+83,"America's health care system is second only to Japan, Canada, Sweden, Great Britain, well... all of Europe. But you can thank your lucky stars we don't live in Paraguay!",5,2
+84,"I hope I didn't brain my damage.",5,2
+85,"Marge, I'm going to miss you so much. And it's not just the sex. It's also the food preparation.",5,3
+86,"I've always wondered if there was a god. And now I know there is -- and it's me.",5,3
+87,"I saw this in a movie about a bus that had to SPEED around the city, keeping its SPEED over fifty, and if its SPEED dropped, it would explode! I think it was called 'The Bus That Couldn't Slow Down.'",5,4
+88,"Marge, you know it's rude to talk when my mouth is full of food.",5,4
+89,"Kids, kids. I'm not going to die. That only happens to bad people.",5,5
+90,"I'm not popular enough to be different!",5,5
+91,"Donuts. Is there anything they can't do?",5,6
+92,"Son, when you participate in sporting events, it's not whether you win or lose: it's how drunk you get.",5,6
+93,"I'm normally not a religious man, but if you're up there, save me, Superman!",5,7
+94,"If you really want something in this life, you have to work for it. Now quiet, they're about to announce the lottery numbers!",5,7
+95,"Lisa, if you don't like your job you don't strike! You just go in every day and do it really half-assed. That's the American way!",5,8
+96,"I'm never going to be disabled. I'm sick of being so healthy!",5,8
+97,"Weaseling out of things is important to learn. It's what separates us from the animals... except the weasel.",5,9
+98,"I'll make the money by selling one of my livers. I can get by with one.",5,9
+99,"Marge, it takes two to lie. One to lie and one to listen.",5,10
+100,"Getting out of jury duty is easy. The trick is to say you're prejudiced against all races.",5,10
+101,"I'm not normally a praying man, but if you're up there, please save me, Superman!",6,1
+102,"A woman is a lot like a refrigerator: six feet tall, 300 pounds...it makes ice.",6,1
+103,"Son, when you participate in sporting events, it's not whether you win or lose: it's how drunk you get.",6,2
+104,"I'm a Spalding Gray in a Rick Dees world.",6,2
+105,"The Internet? Is that thing still around?",6,3
+106,"I've figured out an alternative to giving up my beer. Basically, we become a family of travelers.",6,3
+107,"Marge, you know it's rude to talk when my mouth is full of food.",6,4
+108,"You couldn't fool your mother on the foolingest day of your life if you had an electrified fooling machine.",6,4
+109,"Trying is the first step towards failure.",6,5
+110,"I'm going to the back seat of my car with the woman I love, and I won't be back for ten minutes!",6,5
+111,"Roads are just a suggestion Marge, just like pants.",6,6
+112,"Marge, it takes two to lie. One to lie and one to listen.",6,6
+113,"Oh, so they have the Internet on computers now!",6,7
+114,"Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.",6,7
+115,"If you don't like your job, you don't strike! You just go in every day and do it really half-assed. That's the American way.",6,8
+116,"I'm normally not a religious man, but if you're up there, save me, Superman!",6,8
+117,"What's the point of going out? We're just going to wind up back here anyway.",6,9
+118,"I saw this in a movie about a bus that had to SPEED around the city, keeping its SPEED over fifty, and if its SPEED dropped, it would explode! I think it was called 'The Bus That Couldn't Slow Down.'",6,9
+119,"I want to share something with you: The three little sentences that will get you through life. Number 1: Cover for me. Number 2: Oh, good idea, Boss! Number 3: It was like that when I got here.",6,10
+120,"Son, a woman is a lot like a beer. They smell good, they look good, you'd step over your own mother just to get one!",6,10
+121,"I saw this in a movie about a bus that had to SPEED around the city, keeping its SPEED over fifty, and if its SPEED dropped, it would explode! I think it was called 'The Bus That Couldn't Slow Down.'",7,1
+122,"Son, when you participate in sporting events, it's not whether you win or lose: it's how drunk you get.",7,1
+123,"Facts are meaningless. You could use facts to prove anything that's even remotely true!",7,2
+124,"D'oh! Stupid brain, I hate you! Keep quiet brain or I'll stab you with a Q-tip!",7,2
+125,"Marge, it takes two to lie. One to lie and one to listen.",7,3
+126,"Kids, kids. I'm not going to die. That only happens to bad people.",7,3
+127,"If something's hard to do, then it's not worth doing.",7,4
+128,"Well, it's 1 a.m. Better go home and spend some quality time with the kids.",7,4
+129,"Hey, if you don't like it, go to Russia!",7,5
+130,"Oh, people can come up with statistics to prove anything. Forty percent of all people know that.",7,5
+131,"I think the saddest day of my life was when I realized I could beat my dad at most things, and Bart experienced that at the age of four.",7,6
+132,"All right, let's not panic. I'll make the money by selling one of my livers. I can get by with one.",7,6
+133,"I'm going to the back seat of my car with the woman I love, and I won't be back for ten minutes!",7,7
+134,"Dear Lord, the gods have been good to me. As an offering, I present these milk and cookies. If you wish me to eat them instead, give me no sign whatsoever... Thy will be done.",7,7
+135,"Remember as far as anyone knows, we're a nice normal family.",7,8
+136,"That's it! You people have stood in my way long enough. I'm going to clown college!",7,8
+137,"America's health care system is second only to Japan, Canada, Sweden, Great Britain, well... all of Europe. But you can thank your lucky stars we don't live in Paraguay!",7,9
+138,"I can't believe it! Reading and writing actually paid off!",7,9
+139,"Don't let Krusty's death get you down, boy. People die all the time, just like that. Why, you could wake up dead tomorrow! Well, good night.",7,10
+140,"Bart, with $10,000, we'd be millionaires! We could buy all kinds of useful things... like love!",7,10
+141,"I'm trying to be a sensitive father, you unwanted moron!",8,1
+142,"Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.",8,1
+143,"Well, it's 1 a.m. Better go home and spend some quality time with the kids.",8,2
+144,"I've learned that life is one crushing defeat after another until you just wish Flanders was dead.",8,2
+145,"Fame was like a drug, but what was even more like a drug were the drugs.",8,3
+146,"I'm not normally a religious man, but if you're up there, save me, Superman!",8,3
+147,"Weaseling out of things is important to learn. It's what separates us from the animals... except the weasel.",8,4
+148,"It takes two to lie: one to lie and one to listen.",8,4
+149,"Mmm... free goo.",8,5
+150,"Beer. Now there's a temporary solution!",8,5
+151,"If he's so smart, how come he's dead?",8,6
+152,"Marge, it takes two to lie. One to lie and one to listen.",8,6
+153,"In America, first you get the sugar, then you get the power, then you get the women.",8,7
+154,"Weaseling out of things is important to learn. It's what separates us from the animals... except the weasel.",8,7
+155,"Old people don't need companionship. They need to be isolated and studied so it can be determined what nutrients they have that might be extracted for our personal use.",8,8
+156,"If something goes wrong at the plant, blame the guy who can't speak English.",8,8
+157,"Marge, you know it's rude to talk when my mouth is full of food.",8,9
+158,"Oh, so they have the Internet on computers now!",8,9
+159,"I'm not normally a religious man, but if you're up there, save me, Superman!",8,10
+160,"When I look at people I don't see colors; I just see crackpot religions.",8,10
+161,"Operator! Give me the number for 911!",9,1
+162,"Marge, there's an empty spot I've always had inside me. I tried to fill it with family, religion, community service, but those were dead ends! I think this chair is the answer.",9,1
+163,"Remember as far as anyone knows, we're a nice normal family.",9,2
+164,"Roads are just a suggestion Marge, just like pants.",9,2
+165,"Lisa, if you don't like your job you don't strike! You just go in every day and do it really half-assed. That's the American way!",9,3
+166,"I've figured out an alternative to giving up my beer. Basically, we become a family of travelers.",9,3
+167,"Son, a woman is a lot like a beer. They smell good, they look good, you'd step over your own mother just to get one!",9,4
+168,"Trying is the first step towards failure.",9,4
+169,"Lisa, vampires are make-believe, like elves, gremlins, and Eskimos.",9,5
+170,"That's it! You people have stood in my way long enough. I'm going to clown college!",9,5
+171,"I saw this in a movie about a bus that had to SPEED around the city, keeping its SPEED over fifty, and if its SPEED dropped, it would explode! I think it was called 'The Bus That Couldn't Slow Down.'",9,6
+172,"It's like my dad always said: Eventually, everybody gets shot.",9,6
+173,"Marriage is like a coffin and each kid is another nail.",9,7
+174,"America's health care system is second only to Japan, Canada, Sweden, Great Britain, well... all of Europe. But you can thank your lucky stars we don't live in Paraguay!",9,7
+175,"If they think I'm going to stop at that stop sign, they're sadly mistaken!",9,8
+176,"I'm in no condition to drive. Wait, I shouldn't listen to myself, I'm drunk!",9,8
+177,"Dear Lord, the gods have been good to me. As an offering, I present these milk and cookies. If you wish me to eat them instead, give me no sign whatsoever... Thy will be done.",9,9
+178,"Bart, with $10,000, we'd be millionaires! We could buy all kinds of useful things... like love!",9,9
+179,"It's not easy to juggle a pregnant wife and a troubled child, but somehow I managed to fit in eight hours of TV a day.",9,10
+180,"Oh, people can come up with statistics to prove anything. Forty percent of all people know that.",9,10
+181,"Lisa, if the Bible has taught us nothing else, and it hasn't, it's that girls should stick to girls' sports, such as hot oil wrestling, foxy boxing, and such and such.",10,1
+182,"You don't like your job, you don't strike. You go in every day and do it really half-assed. That's the American way.",10,1
+183,"Son, when you participate in sporting events, it's not whether you win or lose: it's how drunk you get.",10,2
+184,"Marge, I agree with you – in theory. In theory, communism works. In theory.",10,2
+185,"Books are useless! I only ever read one book, 'To Kill A Mockingbird,' and it gave me absolutely no insight on how to kill mockingbirds!",10,3
+186,"I'm going to the back seat of my car with the woman I love, and I won't be back for ten minutes!",10,3
+187,"Weaseling out of things is important to learn. It's what separates us from the animals... except the weasel.",10,4
+188,"Doughnuts? I told you I don't like ethnic food!",10,4
+189,"I want to share something with you: The three little sentences that will get you through life. Number 1: Cover for me. Number 2: Oh, good idea, Boss! Number 3: It was like that when I got here.",10,5
+190,"Television! Teacher, mother, secret lover.",10,5
+191,"I can't believe it! Reading and writing actually paid off!",10,6
+192,"I hope I didn't brain my damage.",10,6
+193,"Oh, so they have the Internet on computers now!",10,7
+194,"Just because I don't care doesn't mean I don't understand.",10,7
+195,"Beer: The cause of, and solution to, all of life's problems.",10,8
+196,"I'm not normally a religious man, but if you're up there, save me, Superman!",10,8
+197,"Marge, it takes two to lie. One to lie and one to listen.",10,9
+198,"I've learned that life is one crushing defeat after another until you just wish Flanders was dead.",10,9
+199,"Facts are meaningless. You could use facts to prove anything that's even remotely true!",10,10
+200,"If something's hard to do, then it's not worth doing.",10,10
+201,"It takes two to lie: one to lie and one to listen.",11,1
+202,"If they think I'm going to stop at that stop sign, they're sadly mistaken!",11,1
+203,"Don't let Krusty's death get you down, boy. People die all the time, just like that. Why, you could wake up dead tomorrow! Well, good night.",11,2
+204,"All right, brain. You don't like me and I don't like you, but let's just do this and I'll get back to killing you with beer.",11,2
+205,"Mmm... donuts.",11,3
+206,"D'oh!",11,3
+207,"Why you little!",11,4
+208,"Stupid Flanders.",11,4
+209,"Mmm... forbidden donut.",11,5
+210,"I'm normally not a praying man, but if you're up there, please save me, Superman!",11,5
+211,"When I held that gun in my hand, I felt a surge of power... like God must feel when he's holding a gun.",11,6
+212,"To alcohol! The cause of, and solution to, all of life's problems.",11,6
+213,"Just because I don't care doesn't mean I don't understand.",11,7
+214,"Kids, you tried your best and you failed miserably. The lesson is, never try.",11,7
+215,"I'm in no condition to drive. Wait, I shouldn't listen to myself, I'm drunk!",11,8
+216,"If something's hard to do, then it's not worth doing.",11,8
+217,"I want to share something with you: The three little sentences that will get you through life. Number 1: Cover for me. Number 2: Oh, good idea, Boss! Number 3: It was like that when I got here.",11,9
+218,"Facts are meaningless. You could use facts to prove anything that's even remotely true.",11,9
+219,"What's the point of going out? We're just going to wind up back here anyway.",11,10
+220,"That's it! You people have stood in my way long enough. I'm going to clown college!",11,10
