@@ -171,7 +171,7 @@ def create_templates():
         </style>
     </head>
     <body>
-        <h1>TinyLLM Text Generator</h1>
+        <h1>HomerBot Language Model</h1>
         <div class="container">
             <form id="generate-form">
                 <div>
@@ -200,7 +200,7 @@ def create_templates():
             </div>
         </div>
         <div class="footer">
-            <p>TinyLLM - A character-level language model created for CSCI 4220 - Introduction to Artificial Intelligence</p>
+            <p>HomerBot - A language model created for CSCI 4220 - Intro. to AI</p>
         </div>
 
         <script>
