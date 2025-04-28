@@ -1,0 +1,169 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>TinyLLM Text Generator</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                line-height: 1.6;
+            }
+            h1 {
+                color: #333;
+                text-align: center;
+            }
+            .container {
+                background-color: #f9f9f9;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+            label {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: bold;
+            }
+            textarea, input[type="number"], input[type="range"] {
+                width: 100%;
+                padding: 8px;
+                margin-bottom: 15px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+            textarea {
+                height: 100px;
+            }
+            button {
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 15px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 16px;
+            }
+            button:hover {
+                background-color: #45a049;
+            }
+            .result {
+                margin-top: 20px;
+                padding: 15px;
+                background-color: #e9f7ef;
+                border-radius: 4px;
+                white-space: pre-wrap;
+            }
+            .slider-container {
+                display: flex;
+                align-items: center;
+            }
+            .slider-container input {
+                flex: 1;
+                margin-right: 10px;
+            }
+            .slider-value {
+                width: 50px;
+                text-align: center;
+            }
+            .loading {
+                text-align: center;
+                margin-top: 20px;
+                display: none;
+            }
+            .footer {
+                margin-top: 30px;
+                text-align: center;
+                font-size: 0.8em;
+                color: #666;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>TinyLLM Text Generator</h1>
+        <div class="container">
+            <form id="generate-form">
+                <div>
+                    <label for="prompt">Enter your prompt:</label>
+                    <textarea id="prompt" name="prompt" required>The </textarea>
+                </div>
+                <div>
+                    <label for="length">Length of generated text:</label>
+                    <input type="number" id="length" name="length" min="10" max="500" value="200">
+                </div>
+                <div>
+                    <label for="temperature">Temperature (randomness):</label>
+                    <div class="slider-container">
+                        <input type="range" id="temperature" name="temperature" min="0.1" max="2.0" step="0.1" value="0.8">
+                        <span id="temp-value" class="slider-value">0.8</span>
+                    </div>
+                </div>
+                <button type="submit">Generate Text</button>
+            </form>
+            <div class="loading" id="loading">
+                <p>Generating text... Please wait.</p>
+            </div>
+            <div class="result" id="result" style="display: none;">
+                <h3>Generated Text:</h3>
+                <div id="generated-text"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <p>TinyLLM - A character-level language model created for CSCI 4220 - Introduction to Artificial Intelligence</p>
+        </div>
+
+        <script>
+            // Update temperature value display
+            document.getElementById('temperature').addEventListener('input', function() {
+                document.getElementById('temp-value').textContent = this.value;
+            });
+
+            // Handle form submission
+            document.getElementById('generate-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Show loading indicator
+                document.getElementById('loading').style.display = 'block';
+                document.getElementById('result').style.display = 'none';
+                
+                // Get form data
+                const prompt = document.getElementById('prompt').value;
+                const length = document.getElementById('length').value;
+                const temperature = document.getElementById('temperature').value;
+                
+                // Send request to server
+                fetch('/generate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        prompt: prompt,
+                        length: parseInt(length),
+                        temperature: parseFloat(temperature)
+                    }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Hide loading indicator
+                    document.getElementById('loading').style.display = 'none';
+                    
+                    // Display result
+                    document.getElementById('generated-text').textContent = data.text;
+                    document.getElementById('result').style.display = 'block';
+                })
+                .catch((error) => {
+                    // Hide loading indicator
+                    document.getElementById('loading').style.display = 'none';
+                    
+                    // Display error
+                    document.getElementById('generated-text').textContent = 'Error: ' + error;
+                    document.getElementById('result').style.display = 'block';
+                });
+            });
+        </script>
+    </body>
+    </html>
+    
